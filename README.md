@@ -21,12 +21,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0049-group-anagrams) |
+| [0628-maximum-product-of-three-numbers](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0807-custom-sort-string](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0807-custom-sort-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2887-sort-vowels-in-a-string) |
 ## Array
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0049-group-anagrams) |
+| [0628-maximum-product-of-three-numbers](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3540-hash-divided-string](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/3540-hash-divided-string) |
+## Math
+|  |
+| ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 <!---LeetCode Topics End-->

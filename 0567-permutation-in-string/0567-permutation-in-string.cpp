@@ -9,13 +9,13 @@ public:
         return true;
     }
     bool checkInclusion(string s1, string s2) {
-        int count1[26]={0};
+        int count1[26];
         for(int i =0; i<s1.size(); i++){
             char c1 = s1[i];
             count1[c1-'a']++;
         }
         int i=0;
-        int count2[26]={0};
+        int count2[26];
         while(i<s2.size() && i<s1.size()){
             char c2 = s2[i];
             count2[c2-'a']++;

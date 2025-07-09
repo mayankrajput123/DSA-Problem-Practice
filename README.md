@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0078-subsets) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0628-maximum-product-of-three-numbers) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0049-group-anagrams) |
 | [0567-permutation-in-string](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0567-permutation-in-string) |
 | [0807-custom-sort-string](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0807-custom-sort-string) |

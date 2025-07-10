@@ -10,7 +10,7 @@ public:
         return ans;
     }
     int countDistinctIntegers(vector<int>& nums) {
-        set<int> arr;
+        unordered_set<int> arr;
         int n = nums.size();
         for(int i =0; i<n; i++){
             arr.insert(nums[i]);

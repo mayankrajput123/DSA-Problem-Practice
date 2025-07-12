@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0078-subsets) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1945-finding-the-users-active-minutes](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/1945-finding-the-users-active-minutes) |
+| [2227-sum-of-subarray-ranges](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2227-sum-of-subarray-ranges) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2478-longest-nice-subarray](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2478-longest-nice-subarray) |
@@ -99,4 +100,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0053-maximum-subarray) |
+## Stack
+|  |
+| ------- |
+| [2227-sum-of-subarray-ranges](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2227-sum-of-subarray-ranges) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2227-sum-of-subarray-ranges](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2227-sum-of-subarray-ranges) |
 <!---LeetCode Topics End-->

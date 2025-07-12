@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0078-subsets) |
+| [0209-minimum-size-subarray-sum](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1945-finding-the-users-active-minutes](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/1945-finding-the-users-active-minutes) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0567-permutation-in-string](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0567-permutation-in-string) |
 | [2478-longest-nice-subarray](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2478-longest-nice-subarray) |
 ## Counting
@@ -113,5 +115,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0560-subarray-sum-equals-k) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->

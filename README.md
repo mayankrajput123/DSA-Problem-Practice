@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0053-maximum-subarray) |
 ## Sorting
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0078-subsets) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1945-finding-the-users-active-minutes](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/1945-finding-the-users-active-minutes) |
@@ -90,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2324-find-triangular-sum-of-an-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->

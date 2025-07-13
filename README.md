@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0567-permutation-in-string) |
 | [0807-custom-sort-string](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0807-custom-sort-string) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2887-sort-vowels-in-a-string](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2887-sort-vowels-in-a-string) |
 | [3540-hash-divided-string](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/3540-hash-divided-string) |
 ## Dynamic Programming
@@ -133,5 +134,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2497-maximum-matching-of-players-with-trainers) |
 <!---LeetCode Topics End-->

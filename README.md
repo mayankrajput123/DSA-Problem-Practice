@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2887-sort-vowels-in-a-string](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2887-sort-vowels-in-a-string) |
 | [3396-valid-word](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/3396-valid-word) |
 | [3540-hash-divided-string](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/3540-hash-divided-string) |
+| [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3540-hash-divided-string](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/3540-hash-divided-string) |
+| [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 ## Math
 |  |
 | ------- |

@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0053-maximum-subarray) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Sorting
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Hash Table
 |  |
 | ------- |

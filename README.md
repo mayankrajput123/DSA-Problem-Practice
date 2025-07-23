@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2107-find-unique-binary-string](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2107-find-unique-binary-string) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2470-removing-stars-from-a-string](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2470-removing-stars-from-a-string) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2887-sort-vowels-in-a-string](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2887-sort-vowels-in-a-string) |
 | [3396-valid-word](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/3396-valid-word) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2470-removing-stars-from-a-string](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2470-removing-stars-from-a-string) |
 | [3540-hash-divided-string](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/3540-hash-divided-string) |
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3931-process-string-with-special-operations-i](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/3931-process-string-with-special-operations-i) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2227-sum-of-subarray-ranges](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2227-sum-of-subarray-ranges) |
+| [2470-removing-stars-from-a-string](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2470-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |

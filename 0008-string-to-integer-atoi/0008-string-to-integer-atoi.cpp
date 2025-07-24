@@ -14,7 +14,7 @@ public:
             sign = 1;
             i++;
         }
-        int nums = 0;
+        long long nums = 0;
         while(i<n && s[i]>='0' && s[i]<='9'){
             if(nums>INT_MAX/10 || (nums == INT_MAX/10 && s[i]>'7')){
                 if(sign == -1){

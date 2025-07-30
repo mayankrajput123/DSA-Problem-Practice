@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2478-longest-nice-subarray](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2478-longest-nice-subarray) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0078-subsets) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2478-longest-nice-subarray](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2478-longest-nice-subarray) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Backtracking
 |  |
@@ -221,4 +223,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Brainteaser
+|  |
+| ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 <!---LeetCode Topics End-->

@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0013-roman-to-integer) |
+| [0371-sum-of-two-integers](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0371-sum-of-two-integers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0078-subsets) |
+| [0371-sum-of-two-integers](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0371-sum-of-two-integers) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2478-longest-nice-subarray](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2478-longest-nice-subarray) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |

@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-removing-stars-from-a-string](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2470-removing-stars-from-a-string) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2887-sort-vowels-in-a-string](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2887-sort-vowels-in-a-string) |
+| [3379-score-of-a-string](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/3379-score-of-a-string) |
 | [3396-valid-word](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/3396-valid-word) |
 | [3540-hash-divided-string](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/3540-hash-divided-string) |
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |

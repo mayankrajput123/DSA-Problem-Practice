@@ -14,7 +14,8 @@ public:
                     maxi=max(maxi,c);
                     mini=min(mini,c);
                 }
-                total+=(maxi-mini);
+                int curtotal=maxi-mini;
+                total+=curtotal;
             }
         }
         return total;

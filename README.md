@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0713-subarray-product-less-than-k) |
 | [0940-fruit-into-baskets](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0940-fruit-into-baskets) |
+| [1310-watering-plants](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/1310-watering-plants) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1813-maximum-erasure-value](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/1813-maximum-erasure-value) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1310-watering-plants](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/1310-watering-plants) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2470-removing-stars-from-a-string](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2470-removing-stars-from-a-string) |

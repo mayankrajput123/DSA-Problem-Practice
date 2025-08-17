@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2107-find-unique-binary-string](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2107-find-unique-binary-string) |
+| [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2470-removing-stars-from-a-string](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2470-removing-stars-from-a-string) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/1813-maximum-erasure-value) |
 | [1945-finding-the-users-active-minutes](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/1945-finding-the-users-active-minutes) |
 | [2107-find-unique-binary-string](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2107-find-unique-binary-string) |
+| [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2227-sum-of-subarray-ranges](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2227-sum-of-subarray-ranges) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1945-finding-the-users-active-minutes](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/1945-finding-the-users-active-minutes) |
 | [2107-find-unique-binary-string](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2107-find-unique-binary-string) |
+| [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2487-optimal-partition-of-string](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2487-optimal-partition-of-string) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0451-sort-characters-by-frequency) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 ## Combinatorics
 |  |

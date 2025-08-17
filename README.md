@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0567-permutation-in-string) |
 | [0953-reverse-only-letters](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0953-reverse-only-letters) |
+| [2232-adding-spaces-to-a-string](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2232-adding-spaces-to-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## String
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2107-find-unique-binary-string](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2107-find-unique-binary-string) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
+| [2232-adding-spaces-to-a-string](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2232-adding-spaces-to-a-string) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2470-removing-stars-from-a-string](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2470-removing-stars-from-a-string) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2227-sum-of-subarray-ranges](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2227-sum-of-subarray-ranges) |
+| [2232-adding-spaces-to-a-string](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2232-adding-spaces-to-a-string) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2316-count-hills-and-valleys-in-an-array) |
@@ -136,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1310-watering-plants](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/1310-watering-plants) |
+| [2232-adding-spaces-to-a-string](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2232-adding-spaces-to-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2470-removing-stars-from-a-string](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2470-removing-stars-from-a-string) |

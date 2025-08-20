@@ -19,8 +19,6 @@ public:
                 for(int s=1; i+s<=n && j+s<=m; s++){
                     if(isone(matrix,i,j,s)){
                         c++;
-                    }else{
-                        break;
                     }
                 }
             }

@@ -1,8 +1,8 @@
 class Solution {
 public:
-    bool isone(vector<vector<int>>& matrix, int row,int col, int size){
-        for(int i=row; i<row+size; i++){
-            for(int j =col; j<col+size; j++){
+    bool isone(vector<vector<int>>& matrix, int r,int c, int s){
+        for(int i=r; i<r+s; i++){
+            for(int j =c; j<c+s; j++){
                 if(matrix[i][j]==0){
                     return false;
                 }

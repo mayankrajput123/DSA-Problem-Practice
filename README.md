@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0119-pascals-triangle-ii) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Sorting
 |  |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0940-fruit-into-baskets) |
 | [1310-watering-plants](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/1310-watering-plants) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1813-maximum-erasure-value](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/1813-maximum-erasure-value) |
 | [1945-finding-the-users-active-minutes](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/1945-finding-the-users-active-minutes) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Depth-First Search
 |  |

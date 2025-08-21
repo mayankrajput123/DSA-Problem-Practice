@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0119-pascals-triangle-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0238-product-of-array-except-self) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0713-subarray-product-less-than-k) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0242-valid-anagram) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0567-permutation-in-string) |

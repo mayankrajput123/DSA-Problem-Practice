@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0443-string-compression) |
+| [0455-assign-cookies](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0567-permutation-in-string) |
 | [0953-reverse-only-letters](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0953-reverse-only-letters) |
 | [2232-adding-spaces-to-a-string](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2232-adding-spaces-to-a-string) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0451-sort-characters-by-frequency) |
+| [0455-assign-cookies](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0807-custom-sort-string](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0807-custom-sort-string) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0238-product-of-array-except-self) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0455-assign-cookies](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0455-assign-cookies) |
 | [0560-subarray-sum-equals-k](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0713-subarray-product-less-than-k) |
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0455-assign-cookies) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1448-maximum-69-number](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/1448-maximum-69-number) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |

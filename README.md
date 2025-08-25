@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0238-product-of-array-except-self) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0455-assign-cookies) |
+| [0498-diagonal-traverse](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0498-diagonal-traverse) |
 | [0560-subarray-sum-equals-k](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0713-subarray-product-less-than-k) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0498-diagonal-traverse) |
 | [1310-watering-plants](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/1310-watering-plants) |
 | [2232-adding-spaces-to-a-string](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2232-adding-spaces-to-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0498-diagonal-traverse) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |

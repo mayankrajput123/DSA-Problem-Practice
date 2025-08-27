@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0242-valid-anagram) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0628-maximum-product-of-three-numbers) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0119-pascals-triangle-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0238-product-of-array-except-self) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0455-assign-cookies) |
 | [0498-diagonal-traverse](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0498-diagonal-traverse) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0209-minimum-size-subarray-sum) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0713-subarray-product-less-than-k](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0713-subarray-product-less-than-k) |
 | [3790-fruits-into-baskets-ii](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/3790-fruits-into-baskets-ii) |
 ## Greedy
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0498-diagonal-traverse](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0498-diagonal-traverse) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -268,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
 |  |

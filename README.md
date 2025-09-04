@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2432-number-of-zero-filled-subarrays](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2481-strictly-palindromic-number](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2481-strictly-palindromic-number) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [3830-find-closest-person](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/3830-find-closest-person) |
 ## Bit Manipulation
 |  |
 | ------- |

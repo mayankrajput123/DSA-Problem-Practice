@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2107-find-unique-binary-string](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2107-find-unique-binary-string) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2232-adding-spaces-to-a-string](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2232-adding-spaces-to-a-string) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1945-finding-the-users-active-minutes](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/1945-finding-the-users-active-minutes) |
 | [2107-find-unique-binary-string](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2107-find-unique-binary-string) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2227-sum-of-subarray-ranges](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2227-sum-of-subarray-ranges) |
 | [2232-adding-spaces-to-a-string](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2232-adding-spaces-to-a-string) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0498-diagonal-traverse](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0498-diagonal-traverse) |
 | [1310-watering-plants](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/1310-watering-plants) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2232-adding-spaces-to-a-string](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2232-adding-spaces-to-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2324-find-triangular-sum-of-an-array) |

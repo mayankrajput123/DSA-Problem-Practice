@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3379-score-of-a-string](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/3379-score-of-a-string) |
 | [3396-valid-word](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/3396-valid-word) |
+| [3462-vowels-game-in-a-string](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/3462-vowels-game-in-a-string) |
 | [3540-hash-divided-string](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/3540-hash-divided-string) |
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3931-process-string-with-special-operations-i](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/3931-process-string-with-special-operations-i) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2432-number-of-zero-filled-subarrays](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2481-strictly-palindromic-number](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2481-strictly-palindromic-number) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [3462-vowels-game-in-a-string](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/3462-vowels-game-in-a-string) |
 | [3830-find-closest-person](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/3830-find-closest-person) |
 ## Bit Manipulation
 |  |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2481-strictly-palindromic-number](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2481-strictly-palindromic-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [3462-vowels-game-in-a-string](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/3462-vowels-game-in-a-string) |
 ## Segment Tree
 |  |
 | ------- |
@@ -333,4 +336,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->

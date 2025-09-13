@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3462-vowels-game-in-a-string](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/3462-vowels-game-in-a-string) |
 | [3540-hash-divided-string](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/3540-hash-divided-string) |
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3931-process-string-with-special-operations-i](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/3931-process-string-with-special-operations-i) |
 ## Dynamic Programming
 |  |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Simulation
 |  |
 | ------- |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Combinatorics
 |  |
 | ------- |

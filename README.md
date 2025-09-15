@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0807-custom-sort-string](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0807-custom-sort-string) |
 | [0953-reverse-only-letters](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0953-reverse-only-letters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0807-custom-sort-string](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0807-custom-sort-string) |
 | [0940-fruit-into-baskets](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0940-fruit-into-baskets) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1813-maximum-erasure-value](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/1813-maximum-erasure-value) |

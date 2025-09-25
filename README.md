@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Combinatorics
 |  |

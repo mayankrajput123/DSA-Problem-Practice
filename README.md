@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0713-subarray-product-less-than-k) |
 | [0940-fruit-into-baskets](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0940-fruit-into-baskets) |
+| [1266-minimum-time-visiting-all-points](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/1266-minimum-time-visiting-all-points) |
 | [1310-watering-plants](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/1310-watering-plants) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0371-sum-of-two-integers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [1266-minimum-time-visiting-all-points](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/1266-minimum-time-visiting-all-points) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/1448-maximum-69-number) |
@@ -350,4 +352,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/3462-vowels-game-in-a-string) |
+## Geometry
+|  |
+| ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/1266-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->

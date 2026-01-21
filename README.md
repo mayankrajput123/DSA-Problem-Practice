@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2478-longest-nice-subarray](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2478-longest-nice-subarray) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/mayankrajput123/DSA-Problem-Practice/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Backtracking
 |  |
